@@ -1,0 +1,14 @@
+{
+  "name": "trailcaml",
+  "version": "1.0.0",
+  "description": "Trailcaml GUI Frontend",
+  "main": "main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "S Holbrook",
+  "license": "ISC"
+}
